@@ -39,3 +39,5 @@ ___________________________________________________
 
 ## Taller: Implementando algoritmos de Aprendizaje Automáticos sin la necesidad de programar ([diapositivas])
 
+### Descargar [Orange Data Mining](https://orangedatamining.com/download)
+
