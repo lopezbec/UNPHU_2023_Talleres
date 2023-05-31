@@ -33,7 +33,7 @@ ___________________________________________________
   - [CodeAcademy](https://www.codecademy.com/learn/learn-python-3)
   - [SoloLearn](https://www.sololearn.com/Course/Python/)
   - [others...](https://docs.python-guide.org/intro/learning/)
-  - [Python Reference](https://docs.python.org/3.5/reference/)
+
 
   
  
