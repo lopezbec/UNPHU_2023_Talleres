@@ -30,23 +30,10 @@ ___________________________________________________
 <br></br>
 
   ### Recursos adicionales   
-  
-  This will be just a quick introduction to Python. If you would like to learn more, there are plenty of resources online, please consider the following ones:
-
-- Getting Started with Python (for free online!):
-
   - [CodeAcademy](https://www.codecademy.com/learn/learn-python-3)
   - [SoloLearn](https://www.sololearn.com/Course/Python/)
   - [others...](https://docs.python-guide.org/intro/learning/)
-
-<br>
-
-
-- [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do):
-  - [Book GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
-  - [Book Google Colab Notebooks](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
-<br><br>
-- [Python Reference](https://docs.python.org/3.5/reference/)
+  - [Python Reference](https://docs.python.org/3.5/reference/)
 
   
  
