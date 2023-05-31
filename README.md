@@ -37,7 +37,7 @@ ___________________________________________________
 
   ___________________________________________________
 
-## Taller: Implementando algoritmos de Aprendizaje Automáticos sin la necesidad de programar ([diapositivas])
+## Taller: Implementando algoritmos de Aprendizaje Automáticos sin la necesidad de programar ([diapositivas](https://github.com/lopezbec/UNPHU_2023_Talleres/blob/main/Taller%20ML%206_6_23.pdf))
 
 ### Descargar [Orange Data Mining](https://orangedatamining.com/download)
 
