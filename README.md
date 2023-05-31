@@ -9,7 +9,7 @@
 
 ___________________________________________________
 
-## Taller de Introducción a la Programación con Python ([diapositivas](https://github.com/lopezbec/UNPHU_2023_Talleres/blob/main/Taller%20Python%206_6_23.pdf))
+## Taller:  Introducción a la Programación con Python ([diapositivas](https://github.com/lopezbec/UNPHU_2023_Talleres/blob/main/Taller%20Python%206_6_23.pdf))
 
 
 ### Notebook Basico
@@ -35,6 +35,7 @@ ___________________________________________________
   - [others...](https://docs.python-guide.org/intro/learning/)
 
 
-  
- 
+  ___________________________________________________
+
+## Taller: Implementando algoritmos de Aprendizaje Automáticos sin la necesidad de programar ([diapositivas])
 
